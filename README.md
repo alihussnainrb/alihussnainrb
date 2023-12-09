@@ -6,9 +6,9 @@ Fullstack Developer
 
 I began my web development journey in 2018, starting with HTML. Today, I'm proficient in developing full-stack web applications that have real-world utility. My experience extends across both frontend and backend development, but my heart lies in backend engineering. 
 
-I derive immense satisfaction from crafting robust server-side solutions, optimizing performance, and ensuring data integrity. The challenge of building the engine that powers the user experience drives my passion and fuels my creativity. I thrive in the dynamic web development landscape, continually learning and adapting. 
+I derive immense satisfaction from crafting robust server-side solutions, optimizing performance, and ensuring data integrity. The challenge of building the engine that powers the user experience drives my passion and fuels my creativity. 
 
-My journey has been one of consistent growth, and I'm excited to tackle new challenges, innovate, and make meaningful contributions to the digital world through my full-stack development skills, with a strong focus on backend development.
+I thrive in the dynamic web development landscape, continually learning and adapting. My journey has been one of consistent growth, and I'm excited to tackle new challenges, innovate, and make meaningful contributions to the digital world through my full-stack development skills, with a strong focus on backend development.
 
 * 🌍  I'm based in Islamabad, Pakistan
 * 🖥️  See my portfolio at [alihussnainrb.com](http://www.alihussnainrb.com)
